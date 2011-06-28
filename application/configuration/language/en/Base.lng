@@ -1,0 +1,22 @@
+_sales_channels=Sales channels
+_sales_channel=Sales channel
+_referer=Referer
+_menu_descr_sales_channels=Add or remove sales channels
+_new_channel=New channel
+_cancel=Cancel
+_save=Save
+_or=or
+_referers=Referer URLs
+_keywords=Keywords
+_name=Channel name
+_hint_name=For example, "Google search"
+_hint_referers=Targeted referer URLs, it can be only a fragment of the actual URL. For example, "google.com" or "google" to target all Google's domains. Enter one referer per line.
+_hint_keywords=You can also define a sales channel by appending a "?ref=keyword" query variable to your landing pages or any URL's leading to your website. Enter one keyword per line.
+_del_conf=Do you want to delete: [_1]?
+_err_enter_name=please enter name
+
+_sales_channels_total=Total amount
+_sales_channels_count=Count
+_without_sales_channel=Without sales channel
+
+_view_reports=View reports
